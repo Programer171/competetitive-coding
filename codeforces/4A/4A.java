@@ -1,8 +1,7 @@
-package FourA;
 
 import java.util.Scanner;
 
-public class FourA {
+public class waterMelon {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
